@@ -1,1 +1,1 @@
-# Internet-Speed-Test
+# A program for measuring Internet connection speed is under development.
